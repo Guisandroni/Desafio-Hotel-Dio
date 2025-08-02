@@ -1,0 +1,15 @@
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\bin\Debug\net9.0\Desafio-Hotel-Dio.exe
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\bin\Debug\net9.0\Desafio-Hotel-Dio.deps.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\bin\Debug\net9.0\Desafio-Hotel-Dio.runtimeconfig.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\bin\Debug\net9.0\Desafio-Hotel-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\bin\Debug\net9.0\Desafio-Hotel-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.AssemblyInfoInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.AssemblyInfo.cs
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.sourcelink.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\refint\Desafio-Hotel-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\Desafio-Hotel-Dio.genruntimeconfig.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\Desafio-Hotel-Dio\Desafio-Hotel-Dio\obj\Debug\net9.0\ref\Desafio-Hotel-Dio.dll
