@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" alt="Logo DIO" width="300"/>
+</p>
+
 # 🏨 Sistema para Gerenciamento de Hotel
 
 Este projeto é uma solução em C# para o desafio de projeto da trilha .NET da Digital Innovation One (DIO). O objetivo é construir um sistema de gerenciamento de reservas de hotel, aplicando os conceitos de Programação Orientada a Objetos (POO), classes, herança e coleções.
